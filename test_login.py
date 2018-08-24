@@ -9,4 +9,3 @@ class TestLogin:
     def test_login3(self):
         assert 2
 
-
